@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git add .
+git commit -m "Added index.html with Hello World"
+git push
